@@ -6,3 +6,4 @@ Creating a new branch is quick and simple .
 Creating a new branch no-ff 
 git stash is doing
 git windows
+git window1
